@@ -1,6 +1,6 @@
 <?php
 
-namespace DanielDeWit\NovaPaperclip;
+namespace Roennie91\NovaPaperclip;
 
 use Czim\Paperclip\Contracts\AttachmentInterface;
 

@@ -6,7 +6,7 @@ Laravel Nova fields for laravel-paperclip attachments.
 ## Installation
 
 ```
-composer require daniel-de-wit/nova-paperclip
+composer require roennie91/nova-paperclip
 ```
 
 ## Fields
@@ -23,7 +23,7 @@ Add to Nova resource
 
 namespace App\Nova;
 
-use DanielDeWit\NovaPaperclip\PaperclipImage;
+use Roennie91\NovaPaperclip\PaperclipImage;
 
 
 class MyResource extends Resource

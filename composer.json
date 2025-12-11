@@ -1,5 +1,5 @@
 {
-    "name": "daniel-de-wit/nova-paperclip",
+    "name": "roennie91/nova-paperclip",
     "description": "Laravel Nova fields for laravel-paperclip attachments.",
     "license": "MIT",
     "keywords": [
@@ -12,8 +12,8 @@
         "php": "^7.2.5 || ^8.0",
         "cakephp/chronos": "^2.0",
         "czim/laravel-paperclip": "^3.0 || ^4.0 || ^5.0",
-        "laravel/framework": "^8.74 || ^9.0 || ^10.0 || ^11.0",
-        "laravel/nova": "^3.0 || ^4.0"
+        "laravel/framework": "^8.74 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "laravel/nova": "^3.0 || ^4.0 || ^5.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
@@ -34,12 +34,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "DanielDeWit\\NovaPaperclip\\": "src/"
+            "Roennie91\\NovaPaperclip\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DanielDeWit\\NovaPaperclip\\Tests\\": "tests/"
+            "Roennie91\\NovaPaperclip\\Tests\\": "tests/"
         }
     },
     "config": {

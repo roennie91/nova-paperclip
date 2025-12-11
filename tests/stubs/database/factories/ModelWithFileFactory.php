@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\stubs\database\factories;
+namespace Roennie91\NovaPaperclip\Tests\stubs\database\factories;
 
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Models\ModelWithFile;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Models\ModelWithFile;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**

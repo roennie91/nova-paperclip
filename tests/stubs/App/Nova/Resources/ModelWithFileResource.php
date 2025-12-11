@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\stubs\App\Nova\Resources;
+namespace Roennie91\NovaPaperclip\Tests\stubs\App\Nova\Resources;
 
-use DanielDeWit\NovaPaperclip\PaperclipFile;
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Models\ModelWithFile;
+use Roennie91\NovaPaperclip\PaperclipFile;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Models\ModelWithFile;
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Fields\ID;

@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\Integration;
+namespace Roennie91\NovaPaperclip\Tests\Integration;
 
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Models\ModelWithImage;
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithImageResource;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Models\ModelWithImage;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithImageResource;
 use Illuminate\Http\UploadedFile;
 
 class PaperclipImageTest extends AbstractIntegrationTestCase

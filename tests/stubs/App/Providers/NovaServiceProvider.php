@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\stubs\App\Providers;
+namespace Roennie91\NovaPaperclip\Tests\stubs\App\Providers;
 
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithFileResource;
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithImageResource;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithFileResource;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Nova\Resources\ModelWithImageResource;
 use Illuminate\Support\Facades\Gate;
 use Laravel\Nova\Nova;
 use Laravel\Nova\NovaApplicationServiceProvider;

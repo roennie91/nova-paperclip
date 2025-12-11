@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\Integration;
+namespace Roennie91\NovaPaperclip\Tests\Integration;
 
 use Czim\Paperclip\Providers\PaperclipServiceProvider;
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Models\User;
-use DanielDeWit\NovaPaperclip\Tests\stubs\App\Providers\NovaServiceProvider;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Models\User;
+use Roennie91\NovaPaperclip\Tests\stubs\App\Providers\NovaServiceProvider;
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Laravel\Nova\NovaCoreServiceProvider;

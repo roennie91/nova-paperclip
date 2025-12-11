@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace DanielDeWit\NovaPaperclip\Tests\stubs\App\Models;
+namespace Roennie91\NovaPaperclip\Tests\stubs\App\Models;
 
 use Czim\Paperclip\Contracts\AttachableInterface;
 use Czim\Paperclip\Model\PaperclipTrait;
-use DanielDeWit\NovaPaperclip\Tests\stubs\database\factories\ModelWithImageFactory;
+use Roennie91\NovaPaperclip\Tests\stubs\database\factories\ModelWithImageFactory;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
